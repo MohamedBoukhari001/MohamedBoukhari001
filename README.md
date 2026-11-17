@@ -1,16 +1,17 @@
-## Hi there 👋
+# Mohamed Boukhary
 
-<!--
-**MohamedBoukhari001/MohamedBoukhari001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant à la maîtrise en mathématiques et informatique à l'**Université du Québec à Trois-Rivières (UQTR)**.
 
-Here are some ideas to get you started:
+## Recherche
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apprentissage automatique sur données spectrales : prédiction de la qualité de produits alimentaires (biscuits) par spectroscopie proche infrarouge (NIR). Prétraitement spectral (SNV, Savitzky-Golay, sélection VIP), modèles SVR, XGBoost et approches hiérarchiques, expériences pré-enregistrées et reproductibles.
+
+## Outils
+
+Python · scikit-learn · XGBoost · pandas · Jupyter
+
+## Langues
+
+Français · Arabe · Anglais
+
+📍 Trois-Rivières, Québec
